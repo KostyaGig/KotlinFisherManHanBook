@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/id_fish" android:title="@string/fish" android:icon="@drawable/ic_android_black_24dp"/>
+        <item android:id="@+id/id_na" android:title="Наживки" android:icon="@drawable/ic_android_black_24dp"/>
+        <item android:id="@+id/id_sna" android:title="Снасти" android:icon="@drawable/ic_android_black_24dp"/>
+        <item android:id="@+id/id_history" android:title="Истории" android:icon="@drawable/ic_android_black_24dp"/>
+    </group>
+
+    <item android:title="Другое">
+        <menu>
+            <item android:title="Настройки"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titleFish">
+        <item>Сом</item>
+        <item>Налим</item>
+        <item>Щука</item>
+        <item>Карась</item>
+    </string-array>
+
+    <string-array name="descFish">
+        <item>Сом -ffff</item>
+        <item>Налим -fff</item>
+        <item>Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff ЩукаЩука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff ЩукаЩука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff ЩукаЩука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука- fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fff Щука - fffЩука - fff Щука - fff Щука - fff Щука - fffЩука - fff Щука - fff Щука - fff Щука - fffЩука - fff Щука - fff Щука - fff Щука - fffЩука - fff Щука - fff Щука - fff Щука - fff</item>
+        <item>Карась - fff</item>
+    </string-array>
+
+    <array name="imageFish">
+        <item>@drawable/ic_android_black_24dp</item>
+        <item>@drawable/ic_android_black_24dp</item>
+        <item>@drawable/ic_android_black_24dp</item>
+        <item>@drawable/ic_android_black_24dp</item>
+    </array>
+
+    <string-array name="titleNa">
+        <item>Наживка1</item>
+        <item>Наживка2</item>
+        <item>Наживка3</item>
+        <item>Наживка4</item>
+    </string-array>
+
+    <string-array name="descNa">
+        <item>Наживка1 -ffff</item>
+        <item>Наживка2 -fff</item>
+        <item>Наживка3 - fff</item>
+        <item>Наживка4 - fff</item>
+    </string-array>
+
+    <array name="imageNa">
+        <item>@drawable/ic_android_black_24dp</item>
+        <item>@drawable/ic_android_black_24dp</item>
+        <item>@drawable/ic_android_black_24dp</item>
+        <item>@drawable/ic_android_black_24dp</item>
+    </array>
+
+
+</resources>
